@@ -1,4 +1,4 @@
-![](https://cdn.dribbble.com/userupload/8260107/file/original-2037e41954bc40296273ea2188d82213.jpg?compress=1&resize=1600x960)
+![](https://cdn.dribbble.com/userupload/8260107/file/original-4f740ee14c86fb29ecf1ece36dc430a9.jpg?compress=1&resize=2208x1325)
 ### What is Purehi
 Purehi is a lightweight and powerful video player app.Have the same quality video as TikTok and YouTube.You can find any video on YouTube or Tiktok in the app.
 
