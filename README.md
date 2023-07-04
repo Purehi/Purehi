@@ -22,7 +22,7 @@ Purehi is a lightweight and powerful video player app.Have the same quality vide
 Purehi has released version 1.0.
 Anyone can search and download through the Apple App Store.
 
-[App Store](https://apps.apple.com/us/app/purehi-hd-videos-photos/id6450441346?uo=4)
+[App Store](https://apps.apple.com/app/purehi-hd-videos-photos/id6450441346?platform=iphone)
 
 <!--
 **Purehi/Purehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
