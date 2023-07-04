@@ -2,7 +2,7 @@
 ### What is Purehi
 Purehi is a lightweight and powerful video player app.You can find any video on YouTube in the app.
 
-### How is purehi different from YouTube
+### How is Purehi different from YouTube
 * No Ads
 - No need to watch ads before playing video
 - No ad interruption while playing video
