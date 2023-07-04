@@ -1,6 +1,27 @@
 ### What is Purehi
 purehi is a lightweight and powerful video player app.You can find any video on YouTube in the app.
 
+### How is purehi different from YouTube
+* No Ads
+- No need to watch ads before playing video
+- No ad interruption while playing video
+  
+* No IAP
+- No membership required
+- No paid items
+
+* Lightweight
+- Less than 10M
+  
+* Privacy Protection
+- No registration required
+- Do not collect any personal information
+
+### How to ge Purehi APP
+Purehi has released version 1.0.
+Anyone can search and download through the Apple App Store.
+[App Store](https://apps.apple.com/us/app/purehi-hd-videos-photos/id6450441346?uo=4)
+
 <!--
 **Purehi/Purehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
