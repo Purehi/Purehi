@@ -1,4 +1,5 @@
-### Hi there 👋
+### What is Purehi
+purehi is a lightweight and powerful video player app.You can find any video on YouTube in the app.
 
 <!--
 **Purehi/Purehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
