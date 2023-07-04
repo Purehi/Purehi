@@ -1,3 +1,4 @@
+![](https://cdn.dribbble.com/userupload/8260107/file/original-2037e41954bc40296273ea2188d82213.jpg?compress=1&resize=1600x960)
 ### What is Purehi
 purehi is a lightweight and powerful video player app.You can find any video on YouTube in the app.
 
@@ -20,6 +21,7 @@ purehi is a lightweight and powerful video player app.You can find any video on 
 ### How to ge Purehi APP
 Purehi has released version 1.0.
 Anyone can search and download through the Apple App Store.
+
 [App Store](https://apps.apple.com/us/app/purehi-hd-videos-photos/id6450441346?uo=4)
 
 <!--
