@@ -1,6 +1,6 @@
 ![](https://cdn.dribbble.com/userupload/8260107/file/original-2037e41954bc40296273ea2188d82213.jpg?compress=1&resize=1600x960)
 ### What is Purehi
-Purehi is a lightweight and powerful video player app.You can find any video on YouTube in the app.
+Purehi is a lightweight and powerful video player app.Have the same quality video as TikTok and YouTube.You can find any video on YouTube or Tiktok in the app.
 
 ### What is Purehi different from YouTube
 * No Ads
