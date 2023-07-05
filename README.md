@@ -1,4 +1,5 @@
-![](https://cdn.dribbble.com/userupload/8260107/file/original-4f740ee14c86fb29ecf1ece36dc430a9.jpg?compress=1&resize=2208x1325)
+![Category](https://github.com/Purehi/Purehi/assets/138559218/a8c00b25-e2e0-43a9-bb60-652a64d25061)
+![Category-content](https://github.com/Purehi/Purehi/assets/138559218/99a5b9cb-dfcf-4aa4-800d-7b5291d010b0)
 ### What is Purehi
 Purehi is a lightweight and powerful video player app.Have the same quality video as TikTok and YouTube.You can find any video on YouTube or Tiktok in the app.
 
@@ -11,10 +12,13 @@ Purehi is a lightweight and powerful video player app.Have the same quality vide
 - No membership required
 - No paid items
 
+
+
 * Lightweight
 - Less than 10M
   
 * Privacy Protection
+
 - No registration required
 - Do not collect any personal information
 
