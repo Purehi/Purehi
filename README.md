@@ -1,26 +1,11 @@
 ![Category](https://github.com/Purehi/Purehi/assets/138559218/a8c00b25-e2e0-43a9-bb60-652a64d25061)
 ![Category-content](https://github.com/Purehi/Purehi/assets/138559218/99a5b9cb-dfcf-4aa4-800d-7b5291d010b0)
 ### What is Purehi
-Purehi is a ad blocker and lightweight video player app.It can play music and videos from all over the world without ads.You can find any video on YouTube or Tiktok in the app.
+Purehi is a ad blocker and lightweight video player app.It can play music and videos from all over the world without ads interruption.Here you can also download free high-resolution pictures from around the world.You can use images for any purpose without permission.You can find any video on YouTube or Tiktok in the app.
 
-### What is Purehi different from YouTube
-* No Ads
-- No need to watch ads before playing video
-- No ad interruption while playing video
-  
-* No IAP
-- No membership required
-- No paid items
-
-
-
-* Lightweight
-- Less than 10M
-  
-* Privacy Protection
-
-- No registration required
-- Do not collect any personal information
+### What is Purehi Features
+- Browser: Watch personal recommendations which offers you real, interesting, and fun videos that based on what you watch, like, and share.
+- Trending: Explore different topics, what’s popular, and on the rise (available in select countries)
 
 ### How to ge Purehi APP
 Purehi has released version 1.0.
