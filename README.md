@@ -1,7 +1,7 @@
 ![Category](https://github.com/Purehi/Purehi/assets/138559218/a8c00b25-e2e0-43a9-bb60-652a64d25061)
 ![Category-content](https://github.com/Purehi/Purehi/assets/138559218/99a5b9cb-dfcf-4aa4-800d-7b5291d010b0)
 ### What is Purehi
-Purehi is a lightweight and powerful video player app.Have the same quality video as TikTok and YouTube.You can find any video on YouTube or Tiktok in the app.
+Purehi is a ad blocker and lightweight video player app.It can play music and videos from all over the world without ads.You can find any video on YouTube or Tiktok in the app.
 
 ### What is Purehi different from YouTube
 * No Ads
