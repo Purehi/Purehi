@@ -1,4 +1,6 @@
-![Music App](https://github.com/Purehi/Purehi/assets/138559218/db5737c4-25a7-4d06-955a-7321d8a9e9b6)
+
+![Music App](https://github.com/Purehi/Purehi/assets/138559218/93f2f742-80a0-4ddb-85e3-cd1b0f765480)
+
 [App Store](https://apps.apple.com/app/purehi-hd-videos-photos/id6450441346?platform=iphone)
 
 [中文版](https://github.com/Purehi/Purehi/blob/main/README_zh.md)
