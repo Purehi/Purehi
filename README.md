@@ -14,7 +14,7 @@ Purehi is a ad blocker and lightweight video player app.It can play music and vi
 - Search: Search for anything videos you might be interested in by keyword.such as cute pet, dog,cat etc.
   
 ### How to ge Purehi APP
-Purehi has released version 1.0.
+Purehi has released version 1.2.0.
 Anyone can search and download through the Apple App Store.
 
 
