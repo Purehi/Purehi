@@ -11,4 +11,4 @@ Purehi是一款轻量强大的视频播放器。它可以无需观看广告播�
 - Trending: 基于所在国家探索不同的内容分类.例如音乐、美食、运动、新闻、时尚和学习等
 - Search: 通过关键词搜索YouTube上的任何视频
 ### 如何获取Purehi App
-Purehi 目前已更新到1.1.0版本，任何人都可以通过App Store下载.使用Purehi需搭梯子
+Purehi 目前已更新到1.2.0版本，任何人都可以通过App Store下载.使用Purehi需搭梯子
