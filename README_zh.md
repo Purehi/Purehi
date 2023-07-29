@@ -1,5 +1,5 @@
 ![Music App](https://github.com/Purehi/Purehi/assets/138559218/16538ed0-439a-4623-aaaa-604314e5ee1f)
-[App Store](https://apps.apple.com/app/purehi-hd-videos-photos/id6450441346?platform=iphone)
+[App Store](https://apps.apple.com/us/app/musium-hd-music-video/id6452237640)
 
 [English](https://github.com/Purehi/Purehi/blob/main/README.md)
 ### 什么是 Purehi？
