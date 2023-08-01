@@ -4,5 +4,5 @@
 
 [English](https://github.com/Purehi/Purehi/blob/main/README.md)
 ### Musium
-Musium是一款类似于音悦台的高清音乐视频播放器，可以免费无限制播放来自全球各地的最新音乐和Top100音乐。
+Musium是一款类似于音悦台的高清音乐视频播放器，可以免费无限制播放来自全球各地的最新音乐和Top100音乐。国内用户需搭🪜才能正常使用。
 
