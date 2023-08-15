@@ -5,10 +5,10 @@
 
 [中文版](https://github.com/Purehi/Purehi/blob/main/README_zh.md)
 
-How would you express a story? A song or a movie? Why not feel the true story with the touching singing voice?
+ Musium is the global streaming music video player app that lets you save and play offline the most popular albums, songs and playlists.
 
 
-It's better to waste time on music, listen to the singing of the world, and watch moving music stories
+ Discover recommend music, playlist by browsing our trending page and get the latest music updates by our App.Stream, playlist, and listen to brand new music or watch music, games, movies videos WITH NO SUBSCRIPTION.
 
 
 <!--
