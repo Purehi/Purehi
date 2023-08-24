@@ -5,7 +5,9 @@
 
 [中文版](https://github.com/Purehi/Purehi/blob/main/README_zh.md)
 
- Musium is the global streaming music video player app that lets you save and play offline the most popular albums, songs and playlists.
+Open the world of music. It's all here. Music & Videos are from YouTube and YouTube Music.
+
+Musium is the global streaming music video player app that lets you save and play offline the most popular albums, songs and playlists.It can play videos with no ads.
 
 
  Discover recommend music, playlist by browsing our trending page and get the latest music updates by our App.Stream, playlist, and listen to brand new music or watch music, games, movies videos WITH NO SUBSCRIPTION.
