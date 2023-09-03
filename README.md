@@ -5,12 +5,36 @@
 
 [中文版](https://github.com/Purehi/Purehi/blob/main/README_zh.md)
 
-Open the world of music. It's all here. Music & Videos are from YouTube and YouTube Music.
-
-Musium is the global streaming music video player app that lets you save and play offline the most popular albums, songs and playlists.It can play videos with no ads.
+Musium is the free music video player that lets you save and play the most popular music, videos and playlists without any ad interruption.
 
 
- Discover recommend music, playlist by browsing our trending page and get the latest music updates by our App.Stream, playlist, and listen to brand new music or watch music, games, movies videos WITH NO SUBSCRIPTION.
+Open the world of music, playlist and gaming, films video. It's all here.
+
+
+Free truly means free, no subscription, no credit card required. "Download it now”
+
+
+Why Musium?
+
+
+Musium is a popular music&video player. It can unlimited play and search of any video with no ads. you also can bookmark your favourite music and videos , share with friends, and more.
+
+
+Here's a brief overview of Musium features:
+
+
+- Discover new music, playlists, videos and shorts.
+
+- Unlimited play mv or videos without any ad interruption
+
+- Stream content to any AirPlay enabled device
+
+- Search and play your favorite music & videos from all over the world for free, anywhere, anytime to suit your mood.
+
+- Browse latest released music, games, film videos based on the country you choose
+
+
+Privacy protection: Browsing records, search records and other information will be saved locally and will not be uploaded to the cloud server.
 
 
 <!--
