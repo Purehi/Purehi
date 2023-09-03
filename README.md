@@ -1,9 +1,12 @@
 
-[Music App](https://github.com/Purehi/Purehi/assets/138559218/c11f8da0-f905-4f5a-b457-07dc2cb81ed0)
-
 [App Store](https://apps.apple.com/us/app/musium-hd-music-video/id6452237640)
 
 [中文版](https://github.com/Purehi/Purehi/blob/main/README_zh.md)
+
+<img src="https://github.com/Purehi/Purehi/assets/138559218/dfb00bd2-069e-40f6-b87e-53fc25fdea0c" width="200" />
+<img src="https://github.com/Purehi/Purehi/assets/138559218/8fae8d97-4f06-4c42-8c5a-ab230ffc1971" width="200" />
+<img src="https://github.com/Purehi/Purehi/assets/138559218/b17fd3c8-66f3-4721-b42d-00ffea73d780" width="200" />
+
 
 Musium is the free music video player that lets you save and play the most popular music, videos and playlists without any ad interruption.
 
@@ -35,6 +38,9 @@ Here's a brief overview of Musium features:
 
 
 Privacy protection: Browsing records, search records and other information will be saved locally and will not be uploaded to the cloud server.
+
+
+[Music App](https://github.com/Purehi/Purehi/assets/138559218/c11f8da0-f905-4f5a-b457-07dc2cb81ed0)
 
 
 <!--
