@@ -1,5 +1,5 @@
 
-[App Store](https://apps.apple.com/us/app/musium-hd-music-video/id6452237640)
+[App Store](https://play.google.com/store/apps/details?id=com.free.block.musicum&gl=in&hl=en_IN)
 
 [中文版](https://github.com/Purehi/Purehi/blob/main/README_zh.md)
 
